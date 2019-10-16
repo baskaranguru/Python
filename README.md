@@ -1,2 +1,2 @@
 # Python
-Python Notebooks for beginners
+Python Notebook samples for beginners
